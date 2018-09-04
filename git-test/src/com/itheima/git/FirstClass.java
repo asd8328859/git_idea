@@ -8,5 +8,9 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+
+    }
+    public static void sun(){
+        int i =10;
     }
 }
